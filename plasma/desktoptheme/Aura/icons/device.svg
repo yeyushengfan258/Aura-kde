@@ -1,23 +1,179 @@
-<svg id="svg" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
- </defs>
- <g id="16-16-device-notifier">
-  <rect y="26" width="16" height="16" opacity="0"/>
-  <rect class="ColorScheme-Text" y="26" width="16" height="16" fill-opacity="0"/>
-  <path class="ColorScheme-Text" d="m4.8438 27.007c-0.28125 0.04688-0.84375 0.24988-0.84375 0.9995v8.9955s0 0.9995 1 0.9995h6c1 0 1-0.9995 1-0.9995v-8.9955c0-0.9995-1-0.9995-1-0.9995h-6s-0.0625-0.01559-0.15625 0zm0.15625 11.994v1.999h6v-1.999z" enable-background="new" fill="currentColor" filter="url(#filter7554)"/>
- </g>
- <g id="22-22-device-notifier">
-  <rect class="ColorScheme-Text" width="22" height="22" fill-opacity="0"/>
-  <rect width="22" height="22" opacity="0"/>
-  <rect class="ColorScheme-Text" width="22" height="22" color="#dedede" fill-opacity="0"/>
-  <path class="ColorScheme-Text" d="m7.844 2.9994c-0.28125 0.05117-0.84375 0.27274-0.84375 1.091v9.8187s0 1.091 1 1.091h6c1 0 1-1.091 1-1.091v-9.8187c0-1.091-1-1.091-1-1.091h-6s-0.06251-0.017016-0.15625 0z" color="#dedede" enable-background="new" fill="currentColor" filter="url(#filter7554)"/>
-  <path class="ColorScheme-Text" d="m8 16v2h6v-2z" color="#dedede" enable-background="new" fill="currentColor" filter="url(#filter7554)"/>
- </g>
- <g id="device-notifier" transform="translate(40,4)">
-  <rect x="-40" y="-38" width="32" height="32" opacity="0"/>
-  <rect class="ColorScheme-Text" x="-40" y="-38" width="32" height="32" fill-opacity="0"/>
-  <path class="ColorScheme-Text" d="m-29.523-34.987c-0.49219 0.08522-1.4766 0.45426-1.4766 1.817v16.353s0 1.817 1.75 1.817h10.5c1.75 0 1.75-1.817 1.75-1.817v-16.353c0-1.817-1.75-1.817-1.75-1.817h-10.5s-0.10938-0.02834-0.27344 0z" enable-background="new" fill="currentColor" filter="url(#filter7554)"/>
-  <path class="ColorScheme-Text" d="m-29-13v4h10v-4z" enable-background="new" fill="currentColor" filter="url(#filter7554)"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg"
+   version="1.1"
+   viewBox="0 0 22 22"
+   sodipodi:docname="device.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <metadata
+     id="metadata35">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#c8c8c8"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="973"
+     id="namedview33"
+     showgrid="true"
+     inkscape:zoom="16"
+     inkscape:cx="15.665279"
+     inkscape:cy="-11.040155"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg">
+    <inkscape:grid
+       type="xygrid"
+       id="grid842" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
+  </defs>
+  <g
+     id="device-notifier">
+    <rect
+       x="0"
+       y="-34"
+       width="32"
+       height="32"
+       id="rect23"
+       style="opacity:0" />
+    <rect
+       class="ColorScheme-Text"
+       x="0"
+       y="-34"
+       width="32"
+       height="32"
+       id="rect25"
+       style="color:#dedede;fill-opacity:0" />
+    <g
+       transform="translate(-35.001881,-23.5)"
+       id="g866">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.94935894;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect1342"
+         width="14"
+         height="19"
+         x="44.001881"
+         y="-7"
+         ry="2.0000002" />
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect1344"
+         width="10"
+         height="3.9999998"
+         x="46.001911"
+         y="14"
+         ry="0" />
+    </g>
+  </g>
+  <g
+     id="22-22-device-notifier">
+    <rect
+       class="ColorScheme-Text"
+       width="22"
+       height="22"
+       id="rect12"
+       x="0"
+       y="0"
+       style="color:#dedede;fill-opacity:0" />
+    <rect
+       width="22"
+       height="22"
+       id="rect14"
+       x="0"
+       y="0"
+       style="opacity:0" />
+    <rect
+       class="ColorScheme-Text"
+       width="22"
+       height="22"
+       id="rect16"
+       x="0"
+       y="0"
+       style="color:#dedede;fill-opacity:0" />
+    <g
+       transform="matrix(3.7795276,0,0,3.7795276,-439.00003,-31.500001)"
+       id="g1367">
+      <rect
+         ry="0.26458302"
+         y="9.260417"
+         x="118.00417"
+         height="3.1749997"
+         width="2.1166682"
+         id="rect1361"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.30984837;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
+      <rect
+         ry="0"
+         y="12.7"
+         x="118.26875"
+         height="0.52916688"
+         width="1.587502"
+         id="rect1363"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.28983676;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
+    </g>
+  </g>
+  <g
+     id="16-16-device-notifier">
+    <rect
+       y="26"
+       width="16"
+       height="16"
+       id="rect5"
+       x="0"
+       style="opacity:0" />
+    <rect
+       class="ColorScheme-Text"
+       y="26"
+       width="16"
+       height="16"
+       id="rect7"
+       x="0"
+       style="color:#dedede;fill-opacity:0" />
+    <g
+       transform="matrix(3.7795276,0,0,3.7795276,-461.00001,-8.9999998)"
+       id="g1395">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.29665723;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect1369"
+         width="2.1166682"
+         height="2.9104166"
+         x="123.03125"
+         y="9.5249996"
+         ry="0.26458371" />
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.28983676;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect1371"
+         width="1.587502"
+         height="0.52916688"
+         x="123.29583"
+         y="12.7"
+         ry="0" />
+    </g>
+  </g>
 </svg>

@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,9 +39,9 @@
      inkscape:window-height="1019"
      id="namedview270"
      showgrid="false"
-     inkscape:zoom="6.2972528"
-     inkscape:cx="114.51224"
-     inkscape:cy="143.99062"
+     inkscape:zoom="4.4528302"
+     inkscape:cx="99.300534"
+     inkscape:cy="176.03569"
      inkscape:window-x="0"
      inkscape:window-y="36"
      inkscape:window-maximized="1"
@@ -431,7 +431,7 @@
        d="m51 52v-32h-3v32z"
        fill="#383838"
        id="path104"
-       style="fill:#323238;fill-opacity:1" />
+       style="fill:#000000;fill-opacity:1;opacity:0.45" />
   </g>
   <g
      id="normal-bottomright"
@@ -449,14 +449,14 @@
          d="m5 55h-0.99998c-1.5 0-2-0.5-2-2v4.2e-5h3z"
          fill="#383838"
          id="path109"
-         style="fill:#323238;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1;opacity:0.45" />
     </g>
   </g>
   <path
      id="normal-center"
      d="m57 56v-32h-32v32z"
      fill="#383838"
-     style="fill:#323238;fill-opacity:1" />
+     style="fill:#000000;fill-opacity:1;opacity:0.45" />
   <g
      id="normal-left"
      transform="translate(-26 4)"
@@ -465,7 +465,7 @@
        d="m51 52v-32h-3v32z"
        fill="#383838"
        id="path115"
-       style="fill:#323238;fill-opacity:1" />
+       style="fill:#000000;fill-opacity:1;opacity:0.45" />
   </g>
   <g
      id="normal-bottom"
@@ -481,9 +481,9 @@
        id="g122">
       <path
          d="m85 52h-32v2h32z"
-         fill="#383838"
          id="path120"
-         style="fill:#323238;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1;opacity:0.45"
+         fill="#383838" />
     </g>
   </g>
   <g
@@ -502,7 +502,7 @@
          d="m5 55h-1c-1.5 0-2-0.5-2-2v4.2e-5h3z"
          fill="#383838"
          id="path127"
-         style="fill:#323238;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1;opacity:0.45" />
     </g>
   </g>
   <path
@@ -520,7 +520,7 @@
          d="m53 22h32v-3h-32z"
          fill="#383838"
          id="path133"
-         style="fill:#323238;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1;opacity:0.45" />
     </g>
     <path
        d="m5 1007.4v1h32v-1z"
@@ -570,7 +570,7 @@
          d="m5 14h-1c-1.5 0-2 0.5-2 2v1h3z"
          fill="#383838"
          id="path151"
-         style="fill:#323238;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1;opacity:0.45" />
     </g>
     <path
        d="m2 1007.4c-1.5 0-2 0.5-2 2v1c0-1.5 0.5-2 2-2h1v-1z"
@@ -588,7 +588,7 @@
          d="m5 14h-0.99998c-1.5 0-2 0.5-2 2v1h3z"
          fill="#383838"
          id="path158"
-         style="fill:#323238;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1;opacity:0.45" />
     </g>
     <path
        d="m40 1007.4c1.5 0 2 0.5 2 2v1c0-1.5-0.5-2-2-2h-0.99998v-1z"
