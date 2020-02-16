@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,7 +43,7 @@
      id="namedview20"
      showgrid="true"
      inkscape:zoom="7.5853273"
-     inkscape:cx="5.8596664"
+     inkscape:cx="-19.979693"
      inkscape:cy="-15.287186"
      inkscape:window-x="0"
      inkscape:window-y="36"
@@ -263,7 +263,7 @@
        ry="8.250001"
        rx="8.25"
        id="ellipse4862"
-       style="display:inline;opacity:0.95;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:0.95;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        cx="79.428299"
        cy="-54.631432" />
     <path
@@ -351,7 +351,7 @@
     <ellipse
        cy="-54.631432"
        cx="79.428299"
-       style="display:inline;opacity:0.95;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;opacity:0.95;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="ellipse5303"
        rx="8.25"
        ry="8.250001" />
