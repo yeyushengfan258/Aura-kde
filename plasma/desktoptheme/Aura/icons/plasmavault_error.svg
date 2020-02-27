@@ -8,12 +8,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg4168"
-   width="55"
+   width="32"
    height="32"
    version="1.1"
-   viewBox="0 0 55 32"
-   sodipodi:docname="plasmavault-error.svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   viewBox="0 0 32 32"
+   sodipodi:docname="plasmavault_error.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata13">
     <rdf:RDF>
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -34,12 +35,12 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="707"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
      id="namedview11"
      showgrid="false"
      inkscape:zoom="5.1232441"
-     inkscape:cx="41.895682"
+     inkscape:cx="6.8592878"
      inkscape:cy="1.0252715"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -54,7 +55,7 @@
   </style>
   </defs>
   <g
-     transform="translate(-0.0755977,6.6804482)"
+     transform="translate(-24.279012,6.6804482)"
      style="enable-background:new"
      id="22-22-plasmavault-error">
     <rect
@@ -88,7 +89,7 @@
   </g>
   <g
      style="display:inline;stroke-width:0.5;enable-background:new"
-     transform="matrix(2,0,0,2,-707.40028,830.72006)"
+     transform="matrix(2,0,0,2,-729.99518,830.72006)"
      inkscape:label="#plasmavault-error"
      id="plasmavault-error">
     <path
