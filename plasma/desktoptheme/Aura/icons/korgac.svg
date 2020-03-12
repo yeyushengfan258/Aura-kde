@@ -3,7 +3,7 @@
   <style id="current-color-scheme" type="text/css"/>
  </defs>
  <g id="korgac">
-  <path d="m11 3c-4.432 0-8 3.568-8 8s3.568 8 8 8 8-3.568 8-8-3.568-8-8-8zm-1 2h1v6h5v1h-6v-7z" color="#dfdfdf" fill="currentColor"/>
+  <path d="m11 3c-4.432 0-8 3.568-8 8s3.568 8 8 8 8-3.568 8-8-3.568-8-8-8zm-1 2h1v6h5v1h-6v-7z" color="#eaeaea" fill="currentColor"/>
   <path d="M0 0h22v22H0z" fill="none"/>
  </g>
 </svg>
