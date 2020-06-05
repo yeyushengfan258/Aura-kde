@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="76"
-   height="66"
-   version="1.1"
-   id="svg68"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="slider.svg"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+   id="svg68"
+   version="1.1"
+   height="66"
+   width="76">
   <metadata
      id="metadata74">
     <rdf:RDF>
@@ -28,278 +28,279 @@
   <defs
      id="defs72" />
   <sodipodi:namedview
-     pagecolor="#969696"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     id="namedview70"
-     showgrid="false"
-     inkscape:zoom="35.876365"
-     inkscape:cx="15.223335"
-     inkscape:cy="81.654063"
-     inkscape:window-x="0"
-     inkscape:window-y="38"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg68"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg68" />
+     inkscape:window-y="32"
+     inkscape:window-x="0"
+     inkscape:cy="20.219716"
+     inkscape:cx="30.786939"
+     inkscape:zoom="8.9690913"
+     showgrid="false"
+     id="namedview70"
+     inkscape:window-height="1023"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#969696" />
   <g
-     style="stroke-width:0.91667002"
+     id="horizontal-slider-handle"
      transform="matrix(0.75,0,0,0.75,-18.75,28)"
-     id="horizontal-slider-handle">
+     style="stroke-width:0.91667002">
     <rect
-       style="opacity:0"
+       x="25"
+       y="4"
+       width="32"
+       height="32"
        id="rect2"
-       height="32"
-       width="32"
-       y="4"
-       x="25" />
+       style="opacity:0" />
     <circle
-       style="fill:#3278ff;fill-opacity:1"
+       cx="41"
+       cy="20"
+       r="8"
        id="circle4"
-       r="8"
-       cy="20"
-       cx="41" />
+       style="fill:#eaeaea;fill-opacity:1" />
   </g>
   <g
-     style="stroke-width:0.91667002"
+     id="horizontal-slider-hover"
      transform="matrix(0.75,0,0,0.75,6.25,27)"
-     id="horizontal-slider-hover">
+     style="stroke-width:0.91667002">
     <rect
-       style="opacity:0"
+       x="25"
+       y="4"
+       width="32"
+       height="32"
        id="rect7"
-       height="32"
-       width="32"
-       y="4"
-       x="25" />
+       style="opacity:0" />
     <circle
-       style="opacity:0.2;fill:#3278ff;fill-opacity:1"
+       cx="41"
+       cy="20"
+       r="16"
        id="circle9"
-       r="16"
-       cy="20"
-       cx="41" />
+       style="opacity:0.2;fill:#eaeaea;fill-opacity:1" />
     <circle
-       style="fill:#3278ff;fill-opacity:1"
+       cx="41"
+       cy="20"
+       r="8"
        id="circle11"
-       r="8"
-       cy="20"
-       cx="41" />
+       style="fill:#eaeaea;fill-opacity:1" />
   </g>
   <g
-     style="stroke-width:0.91667002"
+     id="horizontal-slider-focus"
      transform="matrix(0.75,0,0,0.75,31.25,28)"
-     id="horizontal-slider-focus">
+     style="stroke-width:0.91667002">
     <rect
-       style="opacity:0"
+       x="25"
+       y="4"
+       width="32"
+       height="32"
        id="rect14"
-       height="32"
-       width="32"
-       y="4"
-       x="25" />
+       style="opacity:0" />
     <circle
-       style="opacity:0.3;fill:#3278ff;fill-opacity:1"
+       cx="41"
+       cy="20"
+       r="16"
        id="circle16"
-       r="16"
-       cy="20"
-       cx="41" />
+       style="opacity:0.3;fill:#eaeaea;fill-opacity:1" />
     <circle
-       style="fill:#3278ff;fill-opacity:1"
+       cx="41"
+       cy="20"
+       r="8"
        id="circle18"
-       r="8"
-       cy="20"
-       cx="41" />
+       style="fill:#eaeaea;fill-opacity:1" />
   </g>
   <g
-     style="stroke-width:0.91667002"
+     id="vertical-slider-handle"
      transform="matrix(0.75,0,0,0.75,-18.75,-3)"
-     id="vertical-slider-handle">
+     style="stroke-width:0.91667002">
     <rect
-       style="opacity:0"
+       x="25"
+       y="4"
+       width="32"
+       height="32"
        id="rect21"
-       height="32"
-       width="32"
-       y="4"
-       x="25" />
+       style="opacity:0" />
     <circle
-       style="fill:#3278ff;fill-opacity:1"
+       cx="41"
+       cy="20"
+       r="8"
        id="circle23"
-       r="8"
-       cy="20"
-       cx="41" />
+       style="fill:#eaeaea;fill-opacity:1" />
   </g>
   <g
-     style="stroke-width:0.91667002"
+     id="vertical-slider-hover"
      transform="matrix(0.75,0,0,0.75,6.25,-3)"
-     id="vertical-slider-hover">
+     style="stroke-width:0.91667002">
     <rect
-       style="opacity:0"
-       id="rect26"
-       height="32"
-       width="32"
+       x="25"
        y="4"
-       x="25" />
+       width="32"
+       height="32"
+       id="rect26"
+       style="opacity:0" />
     <circle
-       style="opacity:0.2;fill:#3278ff;fill-opacity:1"
-       id="circle28"
+       cx="41"
+       cy="20"
        r="16"
-       cy="20"
-       cx="41" />
+       id="circle28"
+       style="opacity:0.2;fill:#eaeaea;fill-opacity:1" />
     <circle
-       style="fill:#3278ff;fill-opacity:1"
-       id="circle30"
-       r="8"
+       cx="41"
        cy="20"
-       cx="41" />
+       r="8"
+       id="circle30"
+       style="fill:#eaeaea;fill-opacity:1" />
   </g>
   <g
-     style="stroke-width:0.91667002"
+     id="vertical-slider-focus"
      transform="matrix(0.75,0,0,0.75,31.25,-3)"
-     id="vertical-slider-focus">
+     style="stroke-width:0.91667002">
     <rect
-       style="opacity:0"
-       id="rect33"
-       height="32"
-       width="32"
+       x="25"
        y="4"
-       x="25" />
+       width="32"
+       height="32"
+       id="rect33"
+       style="opacity:0" />
     <circle
-       style="opacity:0.3;fill:#3278ff;fill-opacity:1"
-       id="circle35"
+       cx="41"
+       cy="20"
        r="16"
-       cy="20"
-       cx="41" />
+       id="circle35"
+       style="opacity:0.3;fill:#eaeaea;fill-opacity:1" />
     <circle
-       style="fill:#3278ff;fill-opacity:1"
-       id="circle37"
-       r="8"
+       cx="41"
        cy="20"
-       cx="41" />
+       r="8"
+       id="circle37"
+       style="fill:#eaeaea;fill-opacity:1" />
   </g>
   <rect
-     id="hint-tile-center"
-     x="-1"
-     y="-24"
-     width="2"
-     height="2"
-     rx="0"
+     fill="#4e9a06"
      ry="2"
-     fill="#4e9a06" />
+     rx="0"
+     height="2"
+     width="2"
+     y="-24"
+     x="-1"
+     id="hint-tile-center" />
   <circle
-     id="hint-handle-size"
-     cx="50.955"
-     cy="-15.313"
+     fill="#ff2a2a"
      r="12"
-     fill="#ff2a2a" />
+     cy="-15.313"
+     cx="50.955"
+     id="hint-handle-size" />
   <path
-     id="groove-top"
-     class="ColorScheme-Text"
+     style="fill:#000000;fill-opacity:1"
+     opacity=".3"
      d="m7-20v1h1v-1z"
-     opacity=".3"
-     style="fill:#000000;fill-opacity:1" />
-  <path
-     id="groove-topleft"
      class="ColorScheme-Text"
+     id="groove-top" />
+  <path
+     style="fill:#000000;fill-opacity:1"
+     opacity=".3"
      d="m6-20.02c-0.56073 0-1 0.44793-1 1.0197h1z"
-     opacity=".3"
-     style="fill:#000000;fill-opacity:1" />
-  <path
-     id="groove-topright"
      class="ColorScheme-Text"
+     id="groove-topleft" />
+  <path
+     style="fill:#000000;fill-opacity:1"
+     opacity=".3"
      d="m10-19c0-0.51627-0.43927-0.92071-1-0.92071v0.92071z"
-     opacity=".3"
-     style="fill:#000000;fill-opacity:1" />
+     class="ColorScheme-Text"
+     id="groove-topright" />
   <path
-     style="opacity:0.3;fill:#000000;fill-opacity:1"
-     inkscape:connector-curvature="0"
+     id="groove-bottom"
+     class="ColorScheme-Text"
      d="m 7,-15 v -1 h 1 v 1 z"
-     class="ColorScheme-Text"
-     id="groove-bottom" />
-  <path
-     style="opacity:0.3;fill:#000000;fill-opacity:1"
      inkscape:connector-curvature="0"
+     style="opacity:0.3;fill:#000000;fill-opacity:1" />
+  <path
+     id="groove-bottomleft"
+     class="ColorScheme-Text"
      d="m 6,-15 c -0.49777,0 -0.8877,-0.43927 -0.8877,-1 H 6 Z"
-     class="ColorScheme-Text"
-     id="groove-bottomleft" />
-  <path
-     style="opacity:0.3;fill:#000000;fill-opacity:1"
      inkscape:connector-curvature="0"
+     style="opacity:0.3;fill:#000000;fill-opacity:1" />
+  <path
+     id="groove-bottomright"
+     class="ColorScheme-Text"
      d="m 10,-16 c 0,0.56073 -0.43927,1 -1,1 v -1 z"
-     class="ColorScheme-Text"
-     id="groove-bottomright" />
-  <path
-     style="opacity:0.3;fill:#000000;fill-opacity:1"
      inkscape:connector-curvature="0"
+     style="opacity:0.3;fill:#000000;fill-opacity:1" />
+  <path
+     id="groove-center"
+     class="ColorScheme-Text"
      d="m 7,-18 v 1 h 1 v -1 z"
-     class="ColorScheme-Text"
-     id="groove-center" />
-  <path
-     style="opacity:0.3;fill:#000000;fill-opacity:1"
      inkscape:connector-curvature="0"
+     style="opacity:0.3;fill:#000000;fill-opacity:1" />
+  <path
+     id="groove-left"
+     class="ColorScheme-Text"
      d="m 5,-18 v 1 h 1 v -1 z"
-     class="ColorScheme-Text"
-     id="groove-left" />
-  <path
-     style="opacity:0.3;fill:#000000;fill-opacity:1"
      inkscape:connector-curvature="0"
+     style="opacity:0.3;fill:#000000;fill-opacity:1" />
+  <path
+     id="groove-right"
+     class="ColorScheme-Text"
      d="m 9,-18 v 1 h 1 v -1 z"
-     class="ColorScheme-Text"
-     id="groove-right" />
-  <path
-     style="fill:#3278ff;fill-opacity:1"
      inkscape:connector-curvature="0"
+     style="opacity:0.3;fill:#000000;fill-opacity:1" />
+  <path
+     id="groove-highlight-top"
+     class="ColorScheme-ButtonHover"
      d="m 25,-20 v 1 h 1 v -1 z"
-     class="ColorScheme-ButtonHover"
-     id="groove-highlight-top" />
-  <path
-     style="fill:#3278ff;fill-opacity:1"
      inkscape:connector-curvature="0"
+     style="fill:#eaeaea;fill-opacity:1" />
+  <path
+     id="groove-highlight-topleft"
+     class="ColorScheme-ButtonHover"
      d="m 24,-20 c -0.56073,0 -1,0.43927 -1,1 h 1 z"
-     class="ColorScheme-ButtonHover"
-     id="groove-highlight-topleft" />
-  <path
-     style="fill:#3278ff;fill-opacity:1"
      inkscape:connector-curvature="0"
+     style="fill:#eaeaea;fill-opacity:1" />
+  <path
+     id="groove-highlight-topright"
+     class="ColorScheme-ButtonHover"
      d="m 28,-19 c 0,-0.56073 -0.43927,-1 -1,-1 v 1 z"
-     class="ColorScheme-ButtonHover"
-     id="groove-highlight-topright" />
-  <path
-     style="fill:#3278ff;fill-opacity:1"
      inkscape:connector-curvature="0"
+     style="fill:#eaeaea;fill-opacity:1" />
+  <path
+     id="groove-highlight-bottom"
+     class="ColorScheme-ButtonHover"
      d="m 25,-15 v -1 h 1 v 1 z"
-     class="ColorScheme-ButtonHover"
-     id="groove-highlight-bottom" />
-  <path
-     style="fill:#3278ff;fill-opacity:1"
      inkscape:connector-curvature="0"
+     style="fill:#eaeaea;fill-opacity:1" />
+  <path
+     id="groove-highlight-bottomleft"
+     class="ColorScheme-ButtonHover"
      d="m 24,-15 c -0.56987,0 -1.0163,-0.43927 -1.0163,-1 H 24 Z"
-     class="ColorScheme-ButtonHover"
-     id="groove-highlight-bottomleft" />
-  <path
-     style="fill:#3278ff;fill-opacity:1"
      inkscape:connector-curvature="0"
+     style="fill:#eaeaea;fill-opacity:1" />
+  <path
+     id="groove-highlight-bottomright"
+     class="ColorScheme-ButtonHover"
      d="m 28.04,-16 c 0,0.56073 -0.45667,1 -1.0396,1 v -1 z"
-     class="ColorScheme-ButtonHover"
-     id="groove-highlight-bottomright" />
-  <path
-     style="fill:#3278ff;fill-opacity:1"
      inkscape:connector-curvature="0"
+     style="fill:#eaeaea;fill-opacity:1" />
+  <path
+     id="groove-highlight-center"
+     class="ColorScheme-ButtonHover"
      d="m 25,-18 v 1 h 1 v -1 z"
-     class="ColorScheme-ButtonHover"
-     id="groove-highlight-center" />
-  <path
-     style="fill:#3278ff;fill-opacity:1"
      inkscape:connector-curvature="0"
+     style="fill:#eaeaea;fill-opacity:1" />
+  <path
+     id="groove-highlight-left"
+     class="ColorScheme-ButtonHover"
      d="m 23,-18 v 1 h 1 v -1 z"
-     class="ColorScheme-ButtonHover"
-     id="groove-highlight-left" />
-  <path
-     style="fill:#3278ff;fill-opacity:1"
      inkscape:connector-curvature="0"
-     d="m 27,-18 v 1 h 1 v -1 z"
+     style="fill:#eaeaea;fill-opacity:1" />
+  <path
+     id="groove-highlight-right"
      class="ColorScheme-ButtonHover"
-     id="groove-highlight-right" />
+     d="m 27,-18 v 1 h 1 v -1 z"
+     inkscape:connector-curvature="0"
+     style="fill:#eaeaea;fill-opacity:1" />
 </svg>
